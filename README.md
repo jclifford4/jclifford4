@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I love Computer Science!
-
+- 🔎 Pursuing full time positions as a Fullstack/Backend Software Engineer.
 - 👨‍💻 I’m currently working on desktop apps in C++ and current web technologies using JavaScript, React etc.
 - 📚 I’m actively working on projects involving Frontend and Backend technologies 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - Never stop collaborating.
