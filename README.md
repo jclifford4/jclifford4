@@ -4,10 +4,10 @@
 
 ## I love Computer Science!
 - 🔎 Pursuing full time positions as a Fullstack/Backend Software Engineer.
-- 👨‍💻 I’m currently working on desktop apps in C++ and current web technologies using JavaScript, React etc.
-- 📚 I’m actively working on projects involving Frontend and Backend technologies 😅.
+- 👨‍💻 I’m currently working on full-stack web apps leveraging React, Next.js, Typescript, and Tailwind.
+- 📚 I’m actively working on an interactive data structures web app 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - Never stop collaborating.
-- ⚡ Fun fact: I enjoy running and mountain biking 🚵.
+- ⚡ Fun fact: I enjoy running and mountain and road cycling 🚵.
 
 ---
 
