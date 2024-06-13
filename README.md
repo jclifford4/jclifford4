@@ -4,10 +4,10 @@
 
 ## I love Computer Science!
 - 🔎 Pursuing full time positions as a Fullstack/Backend Software Engineer.
-- 👨‍💻 I’m currently working on full-stack web apps leveraging React, Next.js, Typescript, and Tailwind.
-- 📚 I’m actively working on an interactive data structures web app 😅.
+- 👨‍💻 I’m currently working on applications using .Net and C#.
+- 📚 I’m actively working on a secure password manager for local machines 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - Never stop collaborating.
-- ⚡ Fun fact: I enjoy running and mountain and road cycling 🚵.
+- ⚡ Fun fact: I enjoy running and mountain biking 🚵.
 
 ---
 
