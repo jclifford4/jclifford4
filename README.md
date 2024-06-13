@@ -1,8 +1,6 @@
 # Hi there, I'm Joseph
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
----
+<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ## I love Computer Science!
 - 🔎 Pursuing full time positions as a Fullstack/Backend Software Engineer.
