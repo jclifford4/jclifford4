@@ -19,7 +19,7 @@
 
 ### Contact me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" width="50px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>][linkedin]
 
 
 <br />
