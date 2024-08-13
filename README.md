@@ -7,8 +7,8 @@
 
 ## I love Computer Science!
 - 🔎 Pursuing full time positions as a Fullstack/Backend Software Engineer.
-- 👨‍💻 I’m currently working on applications using .Net and C#.
-- 📚 I’m actively working on a secure password manager for local machines 😅.
+- 📚 I’m actively working on an educational platform for users to learn spanish 😅.
+- 👨‍💻 My stack includes: C#, .NET, MySQL, and xUnit for testing.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - Never stop collaborating.
 - ⚡ Fun fact: I enjoy running and mountain biking 🚵.
 
